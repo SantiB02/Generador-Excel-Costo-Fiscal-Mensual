@@ -1,0 +1,1 @@
+En esta carpeta se colocan los archivos Excel que se usarán como fuente para generar el archivo Excel de Costo Fiscal Mensual.
